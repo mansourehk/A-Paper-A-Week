@@ -5,7 +5,7 @@ Start Day: Oct 28, 2021.
 
 
 
-<a name="myfootnote1">1</a>: Inspired by Shagun Sodhani's repo [link](https://github.com/shagunsodhani/papers-I-read) 
+<a name="myfootnote1">1</a>: Inspired by Shagun Sodhani's repo [[link]](https://github.com/shagunsodhani/papers-I-read).
 
 
 
