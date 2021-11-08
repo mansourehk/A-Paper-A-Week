@@ -8,6 +8,8 @@ Representation Learning for Treatment Effect Estimation from Observational Data 
 
 Tasty Burgers, Soggy Fries: Probing Aspect Robustness in Aspect-Based Sentiment Analysis [[paper]](https://arxiv.org/abs/2009.07964#)[[github]](https://github.com/zhijing-jin/ARTS_TestSet)[[my notes]](https://docs.google.com/presentation/d/1w7OJbueW9ykMBI7_vv_FA3L-pq7jULu3ar_IL80-Qp8/edit?usp=sharing). 
 
+Causal Inference on Recommender Systems [[paper]](http://www.cs.toronto.edu/~lcharlin/papers/recsys20-91.pdf)[[github]](https://github.com/yixinwang/causal-recsys-public)[[my notes]](https://docs.google.com/document/d/1OR3pNv1vHJOUBKFlhx44GPrf--B7FKZVtvHilFLXtVA/edit?usp=sharing). 
+
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
 
