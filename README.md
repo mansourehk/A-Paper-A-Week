@@ -19,6 +19,8 @@ On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and Strong B
 
 Improving Disentangled Text Representation Learning with Information-Theoretic Guidance [[paper]](https://arxiv.org/pdf/2006.00693.pdf)
 
+Self-Damaging Contrastive Learning [[paper]](https://arxiv.org/pdf/2106.02990.pdf)
+
 
 
 
