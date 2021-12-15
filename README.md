@@ -12,6 +12,8 @@ Causal Inference on Recommender Systems [[paper]](http://www.cs.toronto.edu/~lch
 
 Causal Inference in Natural Language Processing: Estimation, Prediction, Interpretation and Beyond [[survey paper]](https://arxiv.org/pdf/2109.00725.pdf)[[my notes]](https://docs.google.com/document/d/1V5czD2-maI60xvj8kSJHdFk_fwatscza6pTvRqxtQ7Y/edit?usp=sharing). 
 
+## Month 2 (DEC 2021)
+
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
 
