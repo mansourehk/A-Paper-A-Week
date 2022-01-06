@@ -19,6 +19,8 @@ Scalable Recommendation with Hierarchical Poisson Factorization [[paper]](http:/
 
 Contrastive Learning with Hard Negative Samples [[paper]](https://arxiv.org/pdf/2010.04592.pdf)[[my notes]](https://docs.google.com/document/d/1RY0QjnuAKkUo_eiei-FgMQumk3eCWT0sg2EZcOQr-Qc/edit?usp=sharing)
 
+## Month 3 (JAN 2022)
+
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
 
