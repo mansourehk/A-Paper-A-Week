@@ -17,6 +17,8 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 
 Scalable Recommendation with Hierarchical Poisson Factorization [[paper]](http://www.jakehofman.com/pdfs/poisson-recs.pdf)[[my notes]](https://docs.google.com/document/d/1RY0QjnuAKkUo_eiei-FgMQumk3eCWT0sg2EZcOQr-Qc/edit?usp=sharing).
 
+Contrastive Learning with Hard Negative Samples [[paper]](https://arxiv.org/pdf/2010.04592.pdf)[[my notes]](https://docs.google.com/document/d/1RY0QjnuAKkUo_eiei-FgMQumk3eCWT0sg2EZcOQr-Qc/edit?usp=sharing)
+
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
 
@@ -26,7 +28,11 @@ Improving Disentangled Text Representation Learning with Information-Theoretic G
 
 Self-Damaging Contrastive Learning [[paper]](https://arxiv.org/pdf/2106.02990.pdf)[[video]](https://www.youtube.com/watch?v=G3wjQEn0pQ0)
 
+What Makes for Good Views for Contrastive Learning? [[paper]](https://arxiv.org/pdf/2005.10243.pdf)
 
+Prototypical Contrastive Learning of Unsupervised Representations [[paper]](https://arxiv.org/pdf/2005.04966.pdf)
+
+Debiased Contrastive Learning [[paper]](https://arxiv.org/pdf/2007.00224.pdf)
 
 <a name="myfootnote1">1</a>: Inspired by Shagun Sodhani's repo [[link]](https://github.com/shagunsodhani/papers-I-read).
 
