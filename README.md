@@ -36,6 +36,8 @@ Prototypical Contrastive Learning of Unsupervised Representations [[paper]](http
 
 Debiased Contrastive Learning [[paper]](https://arxiv.org/pdf/2007.00224.pdf)
 
+---
+
 <a name="myfootnote1">1</a>: Inspired by Shagun Sodhani's repo [[link]](https://github.com/shagunsodhani/papers-I-read).
 
 
