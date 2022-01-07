@@ -21,6 +21,8 @@ Contrastive Learning with Hard Negative Samples [[paper]](https://arxiv.org/pdf/
 
 ## Month 3 (JAN 2022)
 
+A Theoretical Analysis of Contrastive Unsupervised Representation Learning [[paper]](https://arxiv.org/pdf/1902.09229.pdf)[[my notes]]()
+
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
 
