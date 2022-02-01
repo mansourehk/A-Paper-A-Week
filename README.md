@@ -23,6 +23,12 @@ Contrastive Learning with Hard Negative Samples [[paper]](https://arxiv.org/pdf/
 
 A Theoretical Analysis of Contrastive Unsupervised Representation Learning [[paper]](https://arxiv.org/pdf/1902.09229.pdf)[[my notes]]()
 
+Debiased Contrastive Learning [[paper]](https://arxiv.org/pdf/2007.00224.pdf)
+
+Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere [[paper]](https://arxiv.org/pdf/2007.00224.pdf)
+
+
+
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
 
@@ -36,7 +42,6 @@ What Makes for Good Views for Contrastive Learning? [[paper]](https://arxiv.org/
 
 Prototypical Contrastive Learning of Unsupervised Representations [[paper]](https://arxiv.org/pdf/2005.04966.pdf)
 
-Debiased Contrastive Learning [[paper]](https://arxiv.org/pdf/2007.00224.pdf)
 
 ---
 
