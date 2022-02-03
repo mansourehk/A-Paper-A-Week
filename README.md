@@ -45,6 +45,8 @@ Conditional negative sampling for contrastive learning of visual representations
 
 Approximate nearest neighbor negative contrastive learning for dense text retrieval [[paper]](https://arxiv.org/pdf/2007.00808.pdf)
 
+Auto-Encoding Variational Bayes [[paper]](https://arxiv.org/pdf/1312.6114.pdf)[[my notes]]https://docs.google.com/document/d/1hYf17II4G5ST9QjOXuMPzbULFIymKEYqXg6UF-PI4Ug/edit?usp=sharing
+
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
 
