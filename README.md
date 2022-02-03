@@ -37,7 +37,13 @@ Measuring in-variances in deep networks [[paper]](https://papers.nips.cc/paper/2
 
 Hard negative mixing for contrastive learning  [[paper]](https://arxiv.org/pdf/2010.01028.pdf)
 
+## Month 4 (Feb 2022)
 
+Spherical text embedding [[paper]](https://arxiv.org/pdf/1911.01196.pdf)
+
+Conditional negative sampling for contrastive learning of visual representations [[paper]](https://arxiv.org/pdf/2010.02037.pdf)
+
+Approximate nearest neighbor negative contrastive learning for dense text retrieval [[paper]](https://arxiv.org/pdf/2007.00808.pdf)
 
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
