@@ -27,6 +27,16 @@ Debiased Contrastive Learning [[paper]](https://arxiv.org/pdf/2007.00224.pdf)
 
 Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere [[paper]](https://arxiv.org/pdf/2005.10242.pdf)
 
+Prototypical Contrastive Learning of Unsupervised Representations [[paper]](https://arxiv.org/pdf/2005.04966.pdf)
+
+A Theoretical Analysis of Contrastive Unsupervised Representation Learning [[paper]](http://proceedings.mlr.press/v97/saunshi19a/saunshi19a.pdf)
+
+A simple framework for contrastive learning of visual representations [[paper]](https://arxiv.org/abs/2002.05709)
+
+Measuring in-variances in deep networks [[paper]](https://papers.nips.cc/paper/2009/file/428fca9bc1921c25c5121f9da7815cde-Paper.pdf)
+
+Hard negative mixing for contrastive learning  [[paper]](https://arxiv.org/pdf/2010.01028.pdf)
+
 
 
 ## Pool
@@ -40,7 +50,6 @@ Self-Damaging Contrastive Learning [[paper]](https://arxiv.org/pdf/2106.02990.pd
 
 What Makes for Good Views for Contrastive Learning? [[paper]](https://arxiv.org/pdf/2005.10243.pdf)
 
-Prototypical Contrastive Learning of Unsupervised Representations [[paper]](https://arxiv.org/pdf/2005.04966.pdf)
 
 
 ---
