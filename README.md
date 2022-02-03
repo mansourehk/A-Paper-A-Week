@@ -25,7 +25,7 @@ A Theoretical Analysis of Contrastive Unsupervised Representation Learning [[pap
 
 Debiased Contrastive Learning [[paper]](https://arxiv.org/pdf/2007.00224.pdf)
 
-Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere [[paper]](https://arxiv.org/pdf/2007.00224.pdf)
+Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere [[paper]](https://arxiv.org/pdf/2005.10242.pdf)
 
 
 
