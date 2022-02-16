@@ -47,6 +47,8 @@ Approximate nearest neighbor negative contrastive learning for dense text retrie
 
 Auto-Encoding Variational Bayes [[paper]](https://arxiv.org/pdf/1312.6114.pdf)[[my notes]](https://docs.google.com/document/d/1hYf17II4G5ST9QjOXuMPzbULFIymKEYqXg6UF-PI4Ug/edit?usp=sharing)
 
+Self-Damaging Contrastive Learning [[paper]](https://arxiv.org/pdf/2106.02990.pdf)[[video]](https://www.youtube.com/watch?v=G3wjQEn0pQ0)[[my notes]](https://docs.google.com/presentation/d/1Q1GwaZQaQkEgt3Tt5zEVW7gru-NcCkOjGaBBEZ8M1UI/edit?usp=sharing)
+
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
 
@@ -54,9 +56,9 @@ On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and Strong B
 
 Improving Disentangled Text Representation Learning with Information-Theoretic Guidance [[paper]](https://arxiv.org/pdf/2006.00693.pdf)
 
-Self-Damaging Contrastive Learning [[paper]](https://arxiv.org/pdf/2106.02990.pdf)[[video]](https://www.youtube.com/watch?v=G3wjQEn0pQ0)
-
 What Makes for Good Views for Contrastive Learning? [[paper]](https://arxiv.org/pdf/2005.10243.pdf)
+
+Recommendation as Treatments [[paper]](https://ojs.aaai.org/index.php/aimagazine/article/view/18141)
 
 
 
