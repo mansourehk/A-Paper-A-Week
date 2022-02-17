@@ -60,7 +60,7 @@ What Makes for Good Views for Contrastive Learning? [[paper]](https://arxiv.org/
 
 Recommendation as Treatments [[paper]](https://ojs.aaai.org/index.php/aimagazine/article/view/18141)
 
-
+Exploring balanced feature spaces for representation learning [[paper]](https://openreview.net/forum?id=OqtLIabPTit)
 
 ---
 
