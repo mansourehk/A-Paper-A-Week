@@ -69,6 +69,8 @@ Exploring balanced feature spaces for representation learning [[paper]](https://
 
 Shortcut Learning in Deep Neural Networks [[paper]](https://arxiv.org/pdf/2004.07780.pdf)
 
+Does Head Label Help for Long-Tailed Multi-Label Text Classification [[paper]](https://arxiv.org/pdf/2101.09704.pdf)
+
 ---
 
 <a name="myfootnote1">1</a>: Inspired by Shagun Sodhani's repo [[link]](https://github.com/shagunsodhani/papers-I-read).
