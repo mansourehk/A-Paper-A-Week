@@ -64,6 +64,8 @@ Recommendation as Treatments [[paper]](https://ojs.aaai.org/index.php/aimagazine
 
 Exploring balanced feature spaces for representation learning [[paper]](https://openreview.net/forum?id=OqtLIabPTit)
 
+Shortcut Learning in Deep Neural Networks [[paper]](https://arxiv.org/pdf/2004.07780.pdf)
+
 ---
 
 <a name="myfootnote1">1</a>: Inspired by Shagun Sodhani's repo [[link]](https://github.com/shagunsodhani/papers-I-read).
