@@ -51,6 +51,9 @@ Self-Damaging Contrastive Learning [[paper]](https://arxiv.org/pdf/2106.02990.pd
 
 ## Month 5 (Mar 2022)
 
+Decoupling Representation and Classifier for Long-Tailed Recognition [[paper]](https://arxiv.org/pdf/1312.6114.pdf)[[my notes]](https://docs.google.com/document/d/1MzCFz0TOpMocVnulrPnGDfBuHXT0OOhB17ky8hVB5GE/edit?usp=sharing)
+
+
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
 
