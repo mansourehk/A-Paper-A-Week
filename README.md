@@ -49,6 +49,8 @@ Auto-Encoding Variational Bayes [[paper]](https://arxiv.org/pdf/1312.6114.pdf)[[
 
 Self-Damaging Contrastive Learning [[paper]](https://arxiv.org/pdf/2106.02990.pdf)[[video]](https://www.youtube.com/watch?v=G3wjQEn0pQ0)[[my notes]](https://docs.google.com/presentation/d/1Q1GwaZQaQkEgt3Tt5zEVW7gru-NcCkOjGaBBEZ8M1UI/edit?usp=sharing)
 
+## Month 5 (Mar 2022)
+
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
 
