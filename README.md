@@ -53,6 +53,8 @@ Self-Damaging Contrastive Learning [[paper]](https://arxiv.org/pdf/2106.02990.pd
 
 Decoupling Representation and Classifier for Long-Tailed Recognition [[paper]](https://arxiv.org/pdf/1312.6114.pdf)[[my notes]](https://docs.google.com/document/d/1MzCFz0TOpMocVnulrPnGDfBuHXT0OOhB17ky8hVB5GE/edit?usp=sharing)
 
+Class-Balanced Loss Based on Effective Number of Samples [[paper]](https://arxiv.org/pdf/1901.05555.pdf)[[my notes]](https://docs.google.com/document/d/1Ql3hgcYkfpxoGZEL1EZVw79Dh2tjQs2gB8nu5HjVryo/edit?usp=sharing)
+
 
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
