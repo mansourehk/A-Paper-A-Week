@@ -55,6 +55,8 @@ Decoupling Representation and Classifier for Long-Tailed Recognition [[paper]](h
 
 Class-Balanced Loss Based on Effective Number of Samples [[paper]](https://arxiv.org/pdf/1901.05555.pdf)[[my notes]](https://docs.google.com/document/d/1Ql3hgcYkfpxoGZEL1EZVw79Dh2tjQs2gB8nu5HjVryo/edit?usp=sharing)
 
+Understanding lurkers in online communities: A literature review [[paper]](https://www.sciencedirect.com/science/article/pii/S0747563214003008)
+
 
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
