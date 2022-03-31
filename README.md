@@ -17,39 +17,43 @@ Causal Inference in Natural Language Processing: Estimation, Prediction, Interpr
 
 Scalable Recommendation with Hierarchical Poisson Factorization [[paper]](http://www.jakehofman.com/pdfs/poisson-recs.pdf)[[my notes]](https://docs.google.com/document/d/1RY0QjnuAKkUo_eiei-FgMQumk3eCWT0sg2EZcOQr-Qc/edit?usp=sharing).
 
-Contrastive Learning with Hard Negative Samples [[paper]](https://arxiv.org/pdf/2010.04592.pdf)[[my notes]](https://docs.google.com/document/d/1RY0QjnuAKkUo_eiei-FgMQumk3eCWT0sg2EZcOQr-Qc/edit?usp=sharing)
+Contrastive Learning with Hard Negative Samples [[paper]](https://arxiv.org/pdf/2010.04592.pdf)[[my notes]](https://docs.google.com/document/d/1RY0QjnuAKkUo_eiei-FgMQumk3eCWT0sg2EZcOQr-Qc/edit?usp=sharing) [[my related paper]](https://arxiv.org/pdf/2203.12000.pdf)
 
 ## Month 3 (JAN 2022)
 
-A Theoretical Analysis of Contrastive Unsupervised Representation Learning [[paper]](https://arxiv.org/pdf/1902.09229.pdf)[[my notes]]()
+A Theoretical Analysis of Contrastive Unsupervised Representation Learning [[paper]](https://arxiv.org/pdf/1902.09229.pdf)[[my notes]](https://arxiv.org/pdf/2203.12000.pdf)
 
-Debiased Contrastive Learning [[paper]](https://arxiv.org/pdf/2007.00224.pdf)
+Debiased Contrastive Learning [[paper]](https://arxiv.org/pdf/2007.00224.pdf)[[my notes]](https://arxiv.org/pdf/2203.12000.pdf)
 
-Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere [[paper]](https://arxiv.org/pdf/2005.10242.pdf)
+Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere [[paper]](https://arxiv.org/pdf/2005.10242.pdf)[[my notes]](https://arxiv.org/pdf/2203.12000.pdf)
 
-Prototypical Contrastive Learning of Unsupervised Representations [[paper]](https://arxiv.org/pdf/2005.04966.pdf)
+Prototypical Contrastive Learning of Unsupervised Representations [[paper]](https://arxiv.org/pdf/2005.04966.pdf)[[my notes]](https://arxiv.org/pdf/2203.12000.pdf)
 
-A Theoretical Analysis of Contrastive Unsupervised Representation Learning [[paper]](http://proceedings.mlr.press/v97/saunshi19a/saunshi19a.pdf)
+A Theoretical Analysis of Contrastive Unsupervised Representation Learning [[paper]](http://proceedings.mlr.press/v97/saunshi19a/saunshi19a.pdf)[[my notes]](https://arxiv.org/pdf/2203.12000.pdf)
 
-A simple framework for contrastive learning of visual representations [[paper]](https://arxiv.org/abs/2002.05709)
+A simple framework for contrastive learning of visual representations [[paper]](https://arxiv.org/abs/2002.05709)[[my notes]](https://arxiv.org/pdf/2203.12000.pdf)
 
-Measuring in-variances in deep networks [[paper]](https://papers.nips.cc/paper/2009/file/428fca9bc1921c25c5121f9da7815cde-Paper.pdf)
+Measuring in-variances in deep networks [[paper]](https://papers.nips.cc/paper/2009/file/428fca9bc1921c25c5121f9da7815cde-Paper.pdf)[[my notes]](https://arxiv.org/pdf/2203.12000.pdf)
 
-Hard negative mixing for contrastive learning  [[paper]](https://arxiv.org/pdf/2010.01028.pdf)
+Hard negative mixing for contrastive learning  [[paper]](https://arxiv.org/pdf/2010.01028.pdf)[[my notes]](https://arxiv.org/pdf/2203.12000.pdf)
+
+
 
 ## Month 4 (Feb 2022)
 
-Spherical text embedding [[paper]](https://arxiv.org/pdf/1911.01196.pdf)
+Spherical text embedding [[paper]](https://arxiv.org/pdf/1911.01196.pdf)[[my notes]](https://arxiv.org/pdf/2203.12000.pdf)
 
-Conditional negative sampling for contrastive learning of visual representations [[paper]](https://arxiv.org/pdf/2010.02037.pdf)
+Conditional negative sampling for contrastive learning of visual representations [[paper]](https://arxiv.org/pdf/2010.02037.pdf)[[my notes]](https://arxiv.org/pdf/2203.12000.pdf)
 
-Approximate nearest neighbor negative contrastive learning for dense text retrieval [[paper]](https://arxiv.org/pdf/2007.00808.pdf)
+Approximate nearest neighbor negative contrastive learning for dense text retrieval [[paper]](https://arxiv.org/pdf/2007.00808.pdf)[[my notes]](https://arxiv.org/pdf/2203.12000.pdf)
 
 Auto-Encoding Variational Bayes [[paper]](https://arxiv.org/pdf/1312.6114.pdf)[[my notes]](https://docs.google.com/document/d/1hYf17II4G5ST9QjOXuMPzbULFIymKEYqXg6UF-PI4Ug/edit?usp=sharing)
 
-Self-Damaging Contrastive Learning [[paper]](https://arxiv.org/pdf/2106.02990.pdf)[[video]](https://www.youtube.com/watch?v=G3wjQEn0pQ0)[[my notes]](https://docs.google.com/presentation/d/1Q1GwaZQaQkEgt3Tt5zEVW7gru-NcCkOjGaBBEZ8M1UI/edit?usp=sharing)
+Self-Damaging Contrastive Learning [[paper]](https://arxiv.org/pdf/2106.02990.pdf)[[video]](https://www.youtube.com/watch?v=G3wjQEn0pQ0)[[my notes]](https://docs.google.com/presentation/d/1Q1GwaZQaQkEgt3Tt5zEVW7gru-NcCkOjGaBBEZ8M1UI/edit?usp=sharing)[[my related paper]](https://arxiv.org/pdf/2203.12000.pdf)
 
 ## Month 5 (Mar 2022)
+
+What Makes for Good Views for Contrastive Learning? [[paper]](https://arxiv.org/pdf/2005.10243.pdf)[[my notes]](https://arxiv.org/pdf/2203.12000.pdf)
 
 Decoupling Representation and Classifier for Long-Tailed Recognition [[paper]](https://arxiv.org/pdf/1312.6114.pdf)[[my notes]](https://docs.google.com/document/d/1MzCFz0TOpMocVnulrPnGDfBuHXT0OOhB17ky8hVB5GE/edit?usp=sharing)
 
@@ -64,8 +68,6 @@ With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Vis
 On the Stability of Fine-tuning BERT: Misconceptions, Explanations, and Strong Baselines [[paper]](https://arxiv.org/abs/2006.04884)
 
 Improving Disentangled Text Representation Learning with Information-Theoretic Guidance [[paper]](https://arxiv.org/pdf/2006.00693.pdf)
-
-What Makes for Good Views for Contrastive Learning? [[paper]](https://arxiv.org/pdf/2005.10243.pdf)
 
 Recommendation as Treatments [[paper]](https://ojs.aaai.org/index.php/aimagazine/article/view/18141)
 
