@@ -61,6 +61,11 @@ Class-Balanced Loss Based on Effective Number of Samples [[paper]](https://arxiv
 
 Understanding lurkers in online communities: A literature review [[paper]](https://www.sciencedirect.com/science/article/pii/S0747563214003008)
 
+## Month 5 (Apr 2022)
+
+ECML PKDD Review (4 papers) + SNAM Review (1 paper)
+
+Learning to reweight examples for robust deep learning [[paper]](http://proceedings.mlr.press/v80/ren18a/ren18a.pdf)[[my notes]]()
 
 ## Pool
 With a Little Help from My Friends: Nearest-Neighbor Contrastive Learning of Visual Representations [[paper]](https://arxiv.org/pdf/2104.14548.pdf)
