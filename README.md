@@ -67,6 +67,12 @@ ECML PKDD 2022 Review (4 papers) + SNAM Review (1 paper)
 
 Learning to reweight examples for robust deep learning [[paper]](http://proceedings.mlr.press/v80/ren18a/ren18a.pdf)[[my notes]](https://docs.google.com/presentation/d/1o3qw3ZkNGK6r6NS0X_BuXEU7mEFY_qvNe7dQkWSfv0k/edit?usp=sharing)
 
+## Month 6 (May 2022)
+
+Internship
+
+News Sharing Networks Expose Information Polluters on Social Media [[paper]](https://arxiv.org/pdf/2202.00094.pdf)
+
 ## Pool
 Link Prediction Based on Graph Neural Networks [[paper]](https://proceedings.neurips.cc/paper/2018/file/53f0d7c537d99b3824f0f99d62ea2428-Paper.pdf)
 
